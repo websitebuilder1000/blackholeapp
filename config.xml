@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.asdf1qwer3.black hole"
+versionCode = "10"
+version = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+<name>Black Hole</name>
+
+<description>
+A cat travelling in space has been sucked into a black hole! You need to find the warp drive engine to get him out. 
+Controls: Tap the part of the screen you want to move that direction. Also, you can walljump.
+Made in Scratch 3.0
+</description>
+
+<author href="https://build.phonegap.com" email="karenrgreer@yahoo.com">
+asdf1qwer3
+</author>
+<icon src="icon.png" />
+
+</widget>
